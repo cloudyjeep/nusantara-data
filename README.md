@@ -1,6 +1,5 @@
 # 🚀 Go API with Fiber
 
-This Makefile provides common commands to build, run, and manage your Go project efficiently.
 
 ## Available API 
 > Public
@@ -81,7 +80,6 @@ make test
 Runs all unit tests within the project.
 
 ## Custom Environment Variables
-The Makefile supports a custom environment variable `CUSTOM_ENV`, which can be set when running commands:
 ```sh
 make build PORT_ENV=3000
 ```
