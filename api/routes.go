@@ -20,7 +20,7 @@ func AppRoutes(app *App) {
 	// Endpoint public
 	app.Get("/category", category.Find)
 	app.Post("/category/:name", category.Create)
-	app.Delete("/category:/name", category.Delete)
+	app.Delete("/category/:name", category.Delete)
 
 	// Endpoint protected
 	app.Post("/product", auth.On(product.Create))
