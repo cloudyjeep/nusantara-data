@@ -1,0 +1,802 @@
+[
+  {
+    "id": "9164035109868",
+    "name": "Essence Mascara Lash Princess",
+    "price": 9.99,
+    "stock": 5,
+    "created_at": "2024-05-23T08:56:21.618Z",
+    "updated_at": "2024-05-23T08:56:21.618Z"
+  },
+  {
+    "id": "2817839095220",
+    "name": "Eyeshadow Palette with Mirror",
+    "price": 19.99,
+    "stock": 44,
+    "created_at": "2024-05-23T08:56:21.618Z",
+    "updated_at": "2024-05-23T08:56:21.618Z"
+  },
+  {
+    "id": "0516267971277",
+    "name": "Powder Canister",
+    "price": 14.99,
+    "stock": 59,
+    "created_at": "2024-05-23T08:56:21.618Z",
+    "updated_at": "2024-05-23T08:56:21.618Z"
+  },
+  {
+    "id": "9444582199406",
+    "name": "Red Lipstick",
+    "price": 12.99,
+    "stock": 68,
+    "created_at": "2024-05-23T08:56:21.619Z",
+    "updated_at": "2024-05-23T08:56:21.619Z"
+  },
+  {
+    "id": "3212847902461",
+    "name": "Red Nail Polish",
+    "price": 8.99,
+    "stock": 71,
+    "created_at": "2024-05-23T08:56:21.619Z",
+    "updated_at": "2024-05-23T08:56:21.619Z"
+  },
+  {
+    "id": "2210136215089",
+    "name": "Calvin Klein CK One",
+    "price": 49.99,
+    "stock": 17,
+    "created_at": "2024-05-23T08:56:21.619Z",
+    "updated_at": "2024-05-23T08:56:21.619Z"
+  },
+  {
+    "id": "1435582999795",
+    "name": "Chanel Coco Noir Eau De",
+    "price": 129.99,
+    "stock": 41,
+    "created_at": "2024-05-23T08:56:21.619Z",
+    "updated_at": "2024-05-23T08:56:21.619Z"
+  },
+  {
+    "id": "0887083199279",
+    "name": "Dior J'adore",
+    "price": 89.99,
+    "stock": 91,
+    "created_at": "2024-05-23T08:56:21.619Z",
+    "updated_at": "2024-05-23T08:56:21.619Z"
+  },
+  {
+    "id": "1939383392674",
+    "name": "Dolce Shine Eau de",
+    "price": 69.99,
+    "stock": 3,
+    "created_at": "2024-05-23T08:56:21.619Z",
+    "updated_at": "2024-05-23T08:56:21.619Z"
+  },
+  {
+    "id": "8232190382069",
+    "name": "Gucci Bloom Eau de",
+    "price": 79.99,
+    "stock": 93,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "7113807059215",
+    "name": "Annibale Colombo Bed",
+    "price": 1899.99,
+    "stock": 47,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "0426785817074",
+    "name": "Annibale Colombo Sofa",
+    "price": 2499.99,
+    "stock": 16,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "2913244159666",
+    "name": "Bedside Table African Cherry",
+    "price": 299.99,
+    "stock": 16,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "0726316339746",
+    "name": "Knoll Saarinen Executive Conference Chair",
+    "price": 499.99,
+    "stock": 47,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "7839797529453",
+    "name": "Wooden Bathroom Sink With Mirror",
+    "price": 799.99,
+    "stock": 95,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "2517819903837",
+    "name": "Apple",
+    "price": 1.99,
+    "stock": 9,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "8335515097879",
+    "name": "Beef Steak",
+    "price": 12.99,
+    "stock": 96,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "5503491330693",
+    "name": "Cat Food",
+    "price": 8.99,
+    "stock": 13,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "0966223559510",
+    "name": "Chicken Meat",
+    "price": 9.99,
+    "stock": 69,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "6707669443381",
+    "name": "Cooking Oil",
+    "price": 4.99,
+    "stock": 22,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "2597004869708",
+    "name": "Cucumber",
+    "price": 1.49,
+    "stock": 22,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "7957222289508",
+    "name": "Dog Food",
+    "price": 10.99,
+    "stock": 40,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "7095702028776",
+    "name": "Eggs",
+    "price": 2.99,
+    "stock": 10,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "4250692197342",
+    "name": "Fish Steak",
+    "price": 14.99,
+    "stock": 99,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "7583442707568",
+    "name": "Green Bell Pepper",
+    "price": 1.29,
+    "stock": 89,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "8400326844874",
+    "name": "Green Chili Pepper",
+    "price": 0.99,
+    "stock": 8,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "0668665656044",
+    "name": "Honey Jar",
+    "price": 6.99,
+    "stock": 25,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "9603960319256",
+    "name": "Ice Cream",
+    "price": 5.49,
+    "stock": 76,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "8546824122355",
+    "name": "Juice",
+    "price": 3.99,
+    "stock": 99,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "3325493172934",
+    "name": "Kiwi",
+    "price": 2.49,
+    "stock": 1,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "6364178053480",
+    "name": "Lemon",
+    "price": 0.79,
+    "stock": 0,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "6340035595037",
+    "name": "Milk",
+    "price": 3.49,
+    "stock": 57,
+    "created_at": "2024-05-23T08:56:21.620Z",
+    "updated_at": "2024-05-23T08:56:21.620Z"
+  },
+  {
+    "id": "3327790147313",
+    "name": "Mulberry",
+    "price": 4.99,
+    "stock": 79,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "8923332839320",
+    "name": "Nescafe Coffee",
+    "price": 7.99,
+    "stock": 22,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "1374727655057",
+    "name": "Potatoes",
+    "price": 2.29,
+    "stock": 8,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "2858973742684",
+    "name": "Protein Powder",
+    "price": 19.99,
+    "stock": 65,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "5439836346472",
+    "name": "Red Onions",
+    "price": 1.99,
+    "stock": 86,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "0027455825200",
+    "name": "Rice",
+    "price": 5.99,
+    "stock": 49,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "3523564932164",
+    "name": "Soft Drinks",
+    "price": 1.99,
+    "stock": 78,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "7936749779940",
+    "name": "Strawberry",
+    "price": 3.99,
+    "stock": 9,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "0639828085202",
+    "name": "Tissue Paper Box",
+    "price": 2.49,
+    "stock": 97,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "7625896901250",
+    "name": "Water",
+    "price": 0.99,
+    "stock": 95,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "6434699988216",
+    "name": "Decoration Swing",
+    "price": 59.99,
+    "stock": 62,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "9462569143093",
+    "name": "Family Tree Photo Frame",
+    "price": 29.99,
+    "stock": 34,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "1895440764997",
+    "name": "House Showpiece Plant",
+    "price": 39.99,
+    "stock": 89,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "4265754153251",
+    "name": "Plant Pot",
+    "price": 14.99,
+    "stock": 70,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "7764806947768",
+    "name": "Table Lamp",
+    "price": 49.99,
+    "stock": 84,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "4736572105219",
+    "name": "Bamboo Spatula",
+    "price": 7.99,
+    "stock": 0,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "9830484636197",
+    "name": "Black Aluminium Cup",
+    "price": 5.99,
+    "stock": 42,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "6349276911476",
+    "name": "Black Whisk",
+    "price": 9.99,
+    "stock": 17,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "3795471854572",
+    "name": "Boxed Blender",
+    "price": 39.99,
+    "stock": 81,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "9814335139552",
+    "name": "Carbon Steel Wok",
+    "price": 29.99,
+    "stock": 2,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "1812405979802",
+    "name": "Chopping Board",
+    "price": 12.99,
+    "stock": 53,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "2499527422857",
+    "name": "Citrus Squeezer Yellow",
+    "price": 8.99,
+    "stock": 59,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "1537527680664",
+    "name": "Egg Slicer",
+    "price": 6.99,
+    "stock": 30,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "9184442726039",
+    "name": "Electric Stove",
+    "price": 49.99,
+    "stock": 41,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "0913686095458",
+    "name": "Fine Mesh Strainer",
+    "price": 9.99,
+    "stock": 13,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "8403472856763",
+    "name": "Fork",
+    "price": 3.99,
+    "stock": 10,
+    "created_at": "2024-05-23T08:56:21.621Z",
+    "updated_at": "2024-05-23T08:56:21.621Z"
+  },
+  {
+    "id": "1717131152077",
+    "name": "Glass",
+    "price": 4.99,
+    "stock": 68,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "3884864069212",
+    "name": "Grater Black",
+    "price": 10.99,
+    "stock": 80,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "0910668863747",
+    "name": "Hand Blender",
+    "price": 34.99,
+    "stock": 8,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "7685066283284",
+    "name": "Ice Cube Tray",
+    "price": 5.99,
+    "stock": 81,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "4674610806136",
+    "name": "Kitchen Sieve",
+    "price": 7.99,
+    "stock": 33,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "8987152038596",
+    "name": "Knife",
+    "price": 14.99,
+    "stock": 59,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "6294012902550",
+    "name": "Lunch Box",
+    "price": 12.99,
+    "stock": 26,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "4567190151518",
+    "name": "Microwave Oven",
+    "price": 89.99,
+    "stock": 27,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "2099756104307",
+    "name": "Mug Tree Stand",
+    "price": 15.99,
+    "stock": 93,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "8562045288370",
+    "name": "Pan",
+    "price": 24.99,
+    "stock": 40,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "5500686082076",
+    "name": "Plate",
+    "price": 3.99,
+    "stock": 30,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "5757998756907",
+    "name": "Red Tongs",
+    "price": 6.99,
+    "stock": 15,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "6630860592730",
+    "name": "Silver Pot With Glass Cap",
+    "price": 39.99,
+    "stock": 37,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "4553081799999",
+    "name": "Slotted Turner",
+    "price": 8.99,
+    "stock": 36,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "9714959799802",
+    "name": "Spice Rack",
+    "price": 19.99,
+    "stock": 24,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "9577845433830",
+    "name": "Spoon",
+    "price": 4.99,
+    "stock": 51,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "8480335361590",
+    "name": "Tray",
+    "price": 16.99,
+    "stock": 48,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "8349683798423",
+    "name": "Wooden Rolling Pin",
+    "price": 11.99,
+    "stock": 80,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "1621510537954",
+    "name": "Yellow Peeler",
+    "price": 5.99,
+    "stock": 86,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "3883623063065",
+    "name": "Apple MacBook Pro 14 Inch Space Grey",
+    "price": 1999.99,
+    "stock": 39,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "2899455033799",
+    "name": "Asus Zenbook Pro Dual Screen Laptop",
+    "price": 1799.99,
+    "stock": 38,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "1232723732298",
+    "name": "Huawei Matebook X Pro",
+    "price": 1399.99,
+    "stock": 34,
+    "created_at": "2024-05-23T08:56:21.622Z",
+    "updated_at": "2024-05-23T08:56:21.622Z"
+  },
+  {
+    "id": "9590995785298",
+    "name": "Lenovo Yoga 920",
+    "price": 1099.99,
+    "stock": 71,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "0358629687929",
+    "name": "New DELL XPS 13 9300 Laptop",
+    "price": 1499.99,
+    "stock": 18,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "8840720880947",
+    "name": "Blue & Black Check Shirt",
+    "price": 29.99,
+    "stock": 44,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "3072645939073",
+    "name": "Gigabyte Aorus Men Tshirt",
+    "price": 24.99,
+    "stock": 64,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "9383795178668",
+    "name": "Man Plaid Shirt",
+    "price": 34.99,
+    "stock": 65,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "8162805546713",
+    "name": "Man Short Sleeve Shirt",
+    "price": 19.99,
+    "stock": 20,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "1360512025227",
+    "name": "Men Check Shirt",
+    "price": 27.99,
+    "stock": 69,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "0098559139691",
+    "name": "Nike Air Jordan 1 Red And Black",
+    "price": 149.99,
+    "stock": 15,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "0517654748946",
+    "name": "Nike Baseball Cleats",
+    "price": 79.99,
+    "stock": 14,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "3562849555769",
+    "name": "Puma Future Rider Trainers",
+    "price": 89.99,
+    "stock": 10,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "3784445385582",
+    "name": "Sports Sneakers Off White & Red",
+    "price": 119.99,
+    "stock": 73,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "0839375107303",
+    "name": "Sports Sneakers Off White Red",
+    "price": 109.99,
+    "stock": 75,
+    "created_at": "2024-05-23T08:56:21.623Z",
+    "updated_at": "2024-05-23T08:56:21.623Z"
+  },
+  {
+    "id": "9559180055872",
+    "name": "Brown Leather Belt Watch",
+    "price": 89.99,
+    "stock": 69,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  },
+  {
+    "id": "1865008250672",
+    "name": "Longines Master Collection",
+    "price": 1499.99,
+    "stock": 65,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  },
+  {
+    "id": "8917585155737",
+    "name": "Rolex Cellini Date Black Dial",
+    "price": 8999.99,
+    "stock": 84,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  },
+  {
+    "id": "0330714338454",
+    "name": "Rolex Cellini Moonphase",
+    "price": 12999.99,
+    "stock": 33,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  },
+  {
+    "id": "4957618378388",
+    "name": "Rolex Datejust",
+    "price": 10999.99,
+    "stock": 11,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  },
+  {
+    "id": "6567997358364",
+    "name": "Rolex Submariner Watch",
+    "price": 13999.99,
+    "stock": 35,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  },
+  {
+    "id": "0697313083842",
+    "name": "Amazon Echo Plus",
+    "price": 99.99,
+    "stock": 50,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  },
+  {
+    "id": "3925144121840",
+    "name": "Apple Airpods",
+    "price": 129.99,
+    "stock": 93,
+    "created_at": "2024-05-23T08:56:21.624Z",
+    "updated_at": "2024-05-23T08:56:21.624Z"
+  }
+]
